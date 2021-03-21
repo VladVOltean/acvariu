@@ -1,2 +1,2 @@
 # acvariu
-small React-JS app
+small React-JS app to save the lifestock in a fishtank
