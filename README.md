@@ -1,2 +1,2 @@
 # acvariu
-small react app
+small React-JS app
